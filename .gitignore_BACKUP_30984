@@ -1,9 +1,0 @@
-node_modules/
-public/bundle.js
-<<<<<<< HEAD
-public/bundle.js.map
-=======
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
->>>>>>> c829d8ede814e342fc2e1cdb248c2fe9965672d8
