@@ -25,11 +25,7 @@
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
     "css-loader": "^0.28.7",
-<<<<<<< HEAD
-    "express": "^4.16.2",
-=======
     "extract-text-webpack-plugin": "^3.0.2",
->>>>>>> c829d8ede814e342fc2e1cdb248c2fe9965672d8
     "live-server": "^1.2.0",
     "moment": "^2.20.1",
     "node-sass": "^4.7.2",
